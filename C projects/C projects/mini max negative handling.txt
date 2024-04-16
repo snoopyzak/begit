@@ -1,0 +1,15 @@
+// daba had code t9dr tbdl ghi dak 9 bach tselecti ch7al mn number aydkhl l user, ikon hta alf no problem xd hh
+/*
+When dealing with negative numbers, the issue arises because initializing max and min with the first number entered might not handle negative numbers correctly. If the first number entered is negative, it could be mistakenly considered as both the maximum and minimum values.
+
+Let's consider this scenario:
+
+1- User enters -5 as the first number.
+2- The program initializes max and min to -5.
+3- Then, when the user enters positive numbers after -5, max is updated correctly, but min might not be updated because it's initialized with -5, which is already less than any positive number.
+To handle this situation, the flag first_number_entered is introduced. Initially set to 0, it's only updated to 1 after the first number is entered. This means that when the loop is running and first_number_entered is still 0, it knows that no numbers have been entered yet.
+
+So, when encountering the first number, it correctly initializes max and min with that number, regardless of whether it's positive or negative. Then, subsequent comparisons during the loop ensure that both max and min are updated correctly.
+
+Therefore, the use of first_number_entered ensures that negative numbers are handled correctly, as it ensures that both max and min are correctly initialized during the first iteration of the loop, regardless of whether the first number is negative or positive.
+*/
