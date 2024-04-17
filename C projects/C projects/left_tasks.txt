@@ -1,0 +1,11 @@
+fizzbuzz 2.0
+[17:17]
+when u learn structs
+[17:17]
+dont hardcode the string values (edited)
+[17:17]
+use a struct
+[17:18]
+fizzbuzz 3.0
+[17:18]
+use a hashmap so u wont hardcode the int values
