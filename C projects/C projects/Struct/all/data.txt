@@ -1,0 +1,20 @@
++------------------+-------------------+
+| Formation name   |        Programming |
++------------------+-------------------+
+| Module name      |      C_programming |
+| Module time      |                 25 |
+| Module teacher   |         Simo_Amine |
++------------------+-------------------+
+| Student last name|               Poop |
+| Student first name|            Snoopy |
+| Student age      |                 20 |
+| Student city     |            bimzgan |
+| Student formation|         1337skillz |
++------------------+-------------------+
+| Department name  |             ajicod |
++------------------+-------------------+
+| Teacher first name|          mohammed |
+| Teacher last name|              amine |
+| Teacher speciality|       programming |
+| Teacher department|            ajicod |
++------------------+-------------------+
